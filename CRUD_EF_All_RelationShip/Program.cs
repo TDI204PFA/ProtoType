@@ -11,6 +11,7 @@ namespace CRUD_EF_All_RelationShip
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// //Git
         [STAThread]
         static void Main()
         {
